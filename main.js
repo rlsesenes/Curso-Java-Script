@@ -1,4 +1,4 @@
-consolo.clealog("Hola mundo");
+console.clealog("Hola mundo");
 
 
 
