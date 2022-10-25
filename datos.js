@@ -4,9 +4,6 @@
     "Edad": 51, 
     "nacionalidad": "mexicana"
 
-
-
-
 }
 
 var json = '{"nombre": "Ramon Lozano", "Edad": 51, "nacionalidad": "mexicana"}';
