@@ -1,0 +1,4 @@
+consolo.clealog("Hola mundo");
+
+
+
